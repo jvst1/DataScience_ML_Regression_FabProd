@@ -2,6 +2,15 @@
 
 Este projeto tem como objetivo criar um modelo de previsão de vendas para a empresa FabProd, utilizando dados históricos e informações econômicas dos municípios.
 
+# Problema
+
+Considere a empresa FabProd responsável por fabricar e distribuir uma família de produtos de limpeza de veículos para região Sul do Brasil. No entanto, CEO dessa empresa não tem conhecimento do quanto a FabProd pode expandir a distribuição nessa região e nas demais regiões do Brasil. O CEO têm apenas informações sobre as vendas oriundas do ERP, e está interessado em conhecer melhor as possibilidades de expansão dos negócios para FabProd. Ele sabe que existe uma área multidisciplinar (ciência de dados) que pode ajudá-lo, mas ele não sabe como. Considerando esse cenário faça uma demonstração utilizando dados sintéticos como um exemplo de um conjunto de possibilidades. 
+
+Para esse cenário: 
+- Inclua aspectos da Análise Exploratória de Dados 
+- Um modelo preditivo (disciplina Aprendizagem de Máquina)
+- Por outro lado, esclareça que a FabProd precisa valorizar os dados que são gerados internamente e externamente da cadeia produtiva em que a FabProd está inserida (se precisar utilize a metodologia CRISP-DM).
+
 ## Passo a passo do processo executado
 
 1. Coleta de dados: Os dados foram coletados de diferentes fontes, as informações demográficas e econômicas dos municípios foram obtidas dos sites oficiais do IBGE e SEINFRA. Os dados históricos das vendas da FabProd foram gerados artificialmente baseado no conjunto de dados coletado.
